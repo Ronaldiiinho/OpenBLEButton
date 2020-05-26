@@ -8,11 +8,11 @@ Platforms under investigation are: Nordic NRF51 for the button and ESP32 for the
 
 Open to contributions!
 
-#Generic BLE Interface
+## Generic BLE Interface
 Battery, one button, one led and a radio.
 
-#BLE WiFi
+## BLE WiFi
 Micro USB for power, two leds for feedback and MQTT or similar for communication to cloud service.
 
-#Cloud service
+## Cloud service
 A docker container and a simple service to forward packets.
