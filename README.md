@@ -9,7 +9,7 @@ Platforms under investigation are: Nordic NRF51 for the button and ESP32 for the
 Open to contributions!
 
 ## Generic BLE Interface
-Battery, one button, one led and a radio.
+Battery, one button, one led and a radio. Based on experiments from https://www.iot-experiments.com/nrf51822-and-ble400/
 
 ## BLE WiFi
 Micro USB for power, two leds for feedback and MQTT or similar for communication to cloud service.
